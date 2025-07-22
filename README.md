@@ -1,62 +1,96 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Adil Berkani 👋</h1>
-  <h3 align="center">A passionate developer exploring the frontiers of Quantum Computing and Artificial Intelligence.</h3>
+
+# Hi there, I'm Adil Berkani 👋
+
+<a href="mailto:adelberkani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/adil-berkani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Aster-99s"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+### DevOps Engineer | AI Developer | Quantum Researcher
+
+**I build, automate, and optimize complex systems—from scalable cloud infrastructure to cutting-edge quantum algorithms.**
+
 </div>
 
 ---
 
-### 🔭 About Me
+## 🚀 About Me
 
-I'm a developer and researcher with a keen interest in leveraging computational power to solve complex problems. My work primarily revolves around:
+I'm a software engineer with a Master's in Quantum Computation and a passion for solving challenging problems. My journey started with system administration and has evolved into a unique career at the intersection of three exciting fields. I thrive on automating workflows, uncovering data-driven insights with AI, and exploring the future of computing with quantum mechanics.
 
--   🤖 **Artificial Intelligence**: Developing and implementing machine learning models, with a special focus on clustering algorithms for data analysis.
--   ⚛️ **Quantum Computing**: Exploring quantum algorithms and their applications. I enjoy creating and benchmarking quantum circuits, particularly using techniques like the Variational Quantum Eigensolver (VQE).
--   🔬 **Research & Development**: Combining AI and Quantum Computing to push the boundaries of what's possible, as showcased in my `AiQuest-Quantum-Edition` project.
+My goal? To leverage technology to build efficient, intelligent, and resilient solutions. Whether it's deploying a containerized application or benchmarking a quantum circuit on a noisy simulator, I bring a rigorous, analytical, and creative approach to every project.
 
 ---
 
-### 🛠️ My Skills & Tools
+## 🛠️ My Core Expertise
 
-Here are some of the technologies I'm proficient in:
+I specialize in the full lifecycle of modern software systems, from infrastructure to intelligent application layers.
 
-| **Category**          | **Skills**                                                                                                                                                             |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**         | `Python`                                                                                                                                                               |
-| **Data Science & ML** | `Jupyter Notebook` `Scikit-learn` `Pandas` `NumPy`                                                                                                                       |
-| **Quantum Computing** | `Qiskit` `Pennylane` (Inferred from your projects)                                                                                                                       |
-| **Developer Tools**   | `Git` `GitHub`                                                                                                                                                         |
+### ☁️ DevOps & Cloud Engineering
+I architect and manage scalable, secure, and highly available infrastructure. My focus is on automation to ensure seamless and reliable software delivery.
+- **CI/CD Pipelines:** Jenkins, GitHub Actions
+- **Infrastructure as Code (IaC):** Terraform, Ansible
+- **Containerization:** Docker, Kubernetes
+- **Cloud Platforms:** AWS, Google Cloud Platform (GCP), Azure
+- **System Administration:** Linux, Bash Scripting, Network Security
+
+### 🤖 AI & Machine Learning
+I develop end-to-end machine learning pipelines to extract value from data and solve business problems.
+- **Frameworks:** PyTorch, TensorFlow, Keras, HuggingFace Transformers
+- **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Specialties:** Natural Language Processing (NLP), Semantic Clustering, Optimization Algorithms
+
+### ⚛️ Quantum Computing
+As a researcher, I explore the practical applications of near-term quantum algorithms, focusing on performance and noise resilience.
+- **SDKs:** Qiskit, PennyLane, Cirq
+- **Algorithms:** Variational Quantum Eigensolver (VQE), Quantum Machine Learning (QML)
+- **Expertise:** Quantum Chemistry, Noise-Resilient Optimization, Algorithm Benchmarking
 
 ---
 
-### 🚀 My Featured Repositories
+## 🔬 Featured Work & Projects
 
-Here are some of my favorite projects. Feel free to explore!
+Here are a few projects that highlight my skills and interests.
 
-| Repository                                                                      | Description                                                                    | Language           |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------ |
-| [**AiQuest-Quantum-Edition**](https://github.com/Aster-99s/AiQuest-Quantum-Edition) | 🌌 The Main Quest of AiQuest - an exploration at the crossroads of AI and Quantum. | `Python`           |
-| [**VQE_Benchmark**](https://github.com/Aster-99s/VQE_Benchmark)                   | 🔬 A project for benchmarking the Variational Quantum Eigensolver algorithm.     | `Python`           |
-| [**Quantum-Notebooks**](https://github.com/Aster-99s/Quantum-Notebooks)           | 📓 A collection of personal notebooks on various quantum computing topics.       | `Jupyter Notebook` |
-| [**Clustring-Search-terms**](https://github.com/Aster-99s/Clustring-Search-terms) | 🔍 Applying clustering algorithms to analyze and group search terms.             | `Python`           |
+<details>
+<summary><strong>🧬 VQE_Benchmark: A Quantum Optimizer Benchmarking Suite</strong></summary>
 
----
+> A comprehensive research framework I developed to systematically evaluate 7 classical optimizers against Variational Quantum Eigensolver (VQE) algorithms. It runs on both statevector and noisy quantum simulators (like `FakeCairo`) to test performance under realistic conditions.
 
-### 📊 My GitHub Stats
+- **Key Achievement:** Discovered that the AQNGD optimizer had a **439x lower noise degradation factor** compared to gradient-based methods, providing crucial insights for NISQ-era hardware.
+- **Tech Stack:** `Python`, `Qiskit`, `NumPy`, `Pandas`, `Matplotlib`
+- **[Explore the Repository & Research](https://github.com/Aster-99s/VQE_Benchmark)**
+
+</details>
+
+<details>
+<summary><strong>🔍 Clustering-Search-Terms: Semantic Analysis Pipeline</strong></summary>
+
+> A practical NLP pipeline developed for a freelance client to improve marketing strategy. It uses transformer models (BERT) to semantically cluster raw search terms from ad campaigns, revealing underlying user intent.
+
+- **Key Achievement:** Provided actionable insights that helped refine marketing spend by identifying high-value customer interest groups.
+- **Tech Stack:** `Python`, `HuggingFace Transformers`, `Sentence-Transformers`, `Scikit-learn`
+- **[See the Code](https://github.com/Aster-99s/Clustring-Search-terms)**
+
+</details>
+
+<details>
+<summary><strong>📓 Quantum-Notebooks: A Personal Quantum Lab</strong></summary>
+
+> My personal collection of Jupyter Notebooks where I implement and explore various quantum concepts. This includes everything from simulating the ground state energy of Helium with VQE to implementing a bit-flip quantum error correction code.
+
+- **Purpose:** Serves as an educational resource and a testbed for new ideas in quantum algorithm design.
+- **Tech Stack:** `Jupyter Notebook`, `Qiskit`, `PennyLane`
+- **[Browse my Notebooks](https://github.com/Aster-99s/Quantum-Notebooks)**
+
+</details>
+
+
+## 📫 Let's Connect!
+
+I'm always excited to discuss new technologies, collaborate on interesting projects, or explore new opportunities. If you're looking for a passionate engineer to join your team, feel free to reach out!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aster-99s&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Adil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aster-99s&layout=compact&theme=radical&hide_border=true" alt="Adil's Top Languages" />
-</p>
-
----
-
-### 📫 How to Reach Me
-
-I'm always open to connecting with like-minded individuals and discussing new ideas. Feel free to reach out!
-
-<p align="center">
-  <!-- Replace '#' with your actual links -->
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="mailto:adelberkani@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/adil-berkani/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
